@@ -108,13 +108,13 @@ const main = async () => {
                     `|    `.red +
                     producto.getCodigoProducto() +
                     `      |`.red +
-                    `|    ` +
+                    `   ` +
                     producto.getNombreProducto() +
                     `      |`.red +
-                    `|    ` +
+                    `    ` +
                     producto.getInventarioProducto() +
                     `       |`.red +
-                    `|    ` +
+                    `  ` +
                     producto.getPrecioProducto() +
                     `      |`.red
                 );
