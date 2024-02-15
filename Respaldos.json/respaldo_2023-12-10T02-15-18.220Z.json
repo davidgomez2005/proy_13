@@ -1,0 +1,68 @@
+[
+  {
+    "codigoProducto": "01",
+    "nombreProducto": "Pantalon ",
+    "inventarioProducto": 30,
+    "precioProducto": 30000
+  },
+  {
+    "codigoProducto": "02",
+    "nombreProducto": "CAMISA",
+    "inventarioProducto": 2,
+    "precioProducto": 15000
+  },
+  {
+    "codigoProducto": "03",
+    "nombreProducto": "MEDIAS",
+    "inventarioProducto": 13,
+    "precioProducto": 1000
+  },
+  {
+    "codigoProducto": "04",
+    "nombreProducto": "CHAQUETA",
+    "inventarioProducto": 12,
+    "precioProducto": 35000
+  },
+  {
+    "codigoProducto": "07",
+    "nombreProducto": "CELULAR",
+    "inventarioProducto": 2,
+    "precioProducto": 655000
+  },
+  {
+    "codigoProducto": "05",
+    "nombreProducto": "Gorra",
+    "inventarioProducto": 10,
+    "precioProducto": 15000
+  },
+  {
+    "codigoProducto": "06",
+    "nombreProducto": "Medias",
+    "inventarioProducto": 8,
+    "precioProducto": 5000
+  },
+  {
+    "codigoProducto": "08",
+    "nombreProducto": "Poncho",
+    "inventarioProducto": 10,
+    "precioProducto": 20000
+  },
+  {
+    "codigoProducto": "09",
+    "nombreProducto": "contralos ",
+    "inventarioProducto": 15,
+    "precioProducto": 20000
+  },
+  {
+    "codigoProducto": "10",
+    "nombreProducto": "Zapataos ",
+    "inventarioProducto": 20,
+    "precioProducto": 55000
+  },
+  {
+    "codigoProducto": "11",
+    "nombreProducto": "camas ",
+    "inventarioProducto": 12,
+    "precioProducto": 200000
+  }
+]

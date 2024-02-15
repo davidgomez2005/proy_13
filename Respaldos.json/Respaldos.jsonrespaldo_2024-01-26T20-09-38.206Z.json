@@ -1,14 +1,8 @@
 [
   {
-    "codigoProducto": "01",
-    "nombreProducto": "BEBE",
-    "inventarioProducto": 50,
-    "precioProducto": 3000
-  },
-  {
     "codigoProducto": "02",
     "nombreProducto": "CAMISA",
-    "inventarioProducto": 1,
+    "inventarioProducto": 2,
     "precioProducto": 15000
   },
   {
@@ -25,9 +19,9 @@
   },
   {
     "codigoProducto": "05",
-    "nombreProducto": "MUñeco",
-    "inventarioProducto": 50,
-    "precioProducto": 6000
+    "nombreProducto": "CELULAR",
+    "inventarioProducto": 2,
+    "precioProducto": 655000
   },
   {
     "codigoProducto": "06",
@@ -72,27 +66,9 @@
     "precioProducto": 15000
   },
   {
-    "codigoProducto": "13",
-    "nombreProducto": "Pantalon ",
-    "inventarioProducto": 38,
-    "precioProducto": 45000
-  },
-  {
     "codigoProducto": "14",
-    "nombreProducto": "AMOR ",
-    "inventarioProducto": 86,
-    "precioProducto": 10000
-  },
-  {
-    "codigoProducto": "",
-    "nombreProducto": "amor",
+    "nombreProducto": "Pantalon ",
     "inventarioProducto": 50,
-    "precioProducto": 5000
-  },
-  {
-    "codigoProducto": "16",
-    "nombreProducto": "gol",
-    "inventarioProducto": 40,
-    "precioProducto": 7000
+    "precioProducto": 45000
   }
 ]

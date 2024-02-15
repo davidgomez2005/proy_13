@@ -1,20 +1,20 @@
 [
   {
     "codigoProducto": "01",
-    "nombreProducto": "BEBE",
-    "inventarioProducto": 50,
-    "precioProducto": 3000
+    "nombreProducto": "Pantalon ",
+    "inventarioProducto": 20,
+    "precioProducto": 30000
   },
   {
     "codigoProducto": "02",
     "nombreProducto": "CAMISA",
-    "inventarioProducto": 1,
+    "inventarioProducto": 2,
     "precioProducto": 15000
   },
   {
     "codigoProducto": "03",
     "nombreProducto": "MEDIAS",
-    "inventarioProducto": 12,
+    "inventarioProducto": 13,
     "precioProducto": 1000
   },
   {
@@ -24,19 +24,19 @@
     "precioProducto": 35000
   },
   {
-    "codigoProducto": "05",
-    "nombreProducto": "MUñeco",
-    "inventarioProducto": 50,
-    "precioProducto": 6000
+    "codigoProducto": "07",
+    "nombreProducto": "CELULAR",
+    "inventarioProducto": 2,
+    "precioProducto": 655000
   },
   {
-    "codigoProducto": "06",
+    "codigoProducto": "05",
     "nombreProducto": "Gorra",
     "inventarioProducto": 8,
     "precioProducto": 15000
   },
   {
-    "codigoProducto": "07",
+    "codigoProducto": "06",
     "nombreProducto": "Medias",
     "inventarioProducto": 8,
     "precioProducto": 5000
@@ -50,7 +50,7 @@
   {
     "codigoProducto": "09",
     "nombreProducto": "contralos ",
-    "inventarioProducto": 12,
+    "inventarioProducto": 14,
     "precioProducto": 20000
   },
   {
@@ -68,31 +68,13 @@
   {
     "codigoProducto": "12",
     "nombreProducto": "CHANCLAS ",
-    "inventarioProducto": 14,
+    "inventarioProducto": 15,
     "precioProducto": 15000
   },
   {
     "codigoProducto": "13",
-    "nombreProducto": "Pantalon ",
-    "inventarioProducto": 38,
-    "precioProducto": 45000
-  },
-  {
-    "codigoProducto": "14",
-    "nombreProducto": "AMOR ",
-    "inventarioProducto": 86,
-    "precioProducto": 10000
-  },
-  {
-    "codigoProducto": "",
-    "nombreProducto": "amor",
-    "inventarioProducto": 50,
-    "precioProducto": 5000
-  },
-  {
-    "codigoProducto": "16",
-    "nombreProducto": "gol",
-    "inventarioProducto": 40,
-    "precioProducto": 7000
+    "nombreProducto": "Computador ",
+    "inventarioProducto": 8,
+    "precioProducto": 800000
   }
 ]

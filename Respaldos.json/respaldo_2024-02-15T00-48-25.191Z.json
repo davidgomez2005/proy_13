@@ -24,12 +24,6 @@
     "precioProducto": 35000
   },
   {
-    "codigoProducto": "05",
-    "nombreProducto": "MUñeco",
-    "inventarioProducto": 50,
-    "precioProducto": 6000
-  },
-  {
     "codigoProducto": "06",
     "nombreProducto": "Gorra",
     "inventarioProducto": 8,
@@ -72,27 +66,15 @@
     "precioProducto": 15000
   },
   {
-    "codigoProducto": "13",
+    "codigoProducto": "14",
     "nombreProducto": "Pantalon ",
     "inventarioProducto": 38,
     "precioProducto": 45000
   },
   {
-    "codigoProducto": "14",
+    "codigoProducto": "15",
     "nombreProducto": "AMOR ",
-    "inventarioProducto": 86,
+    "inventarioProducto": 100,
     "precioProducto": 10000
-  },
-  {
-    "codigoProducto": "",
-    "nombreProducto": "amor",
-    "inventarioProducto": 50,
-    "precioProducto": 5000
-  },
-  {
-    "codigoProducto": "16",
-    "nombreProducto": "gol",
-    "inventarioProducto": 40,
-    "precioProducto": 7000
   }
 ]
